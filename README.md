@@ -16,8 +16,8 @@ Start the containers
 $ docker-compose up -d
 ```
 
-SSH into the `seamark` container and run migrations
+Run migrations in the `seamark` container
 
 ```shell
-$ npm run migrate
+$ docker-compose run seamark npm run migrate
 ```
