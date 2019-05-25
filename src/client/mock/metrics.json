@@ -1,0 +1,29 @@
+[
+  {
+    "timestamp": "2019-05-11T06:46:59.149Z",
+    "timeToFirstByte": "16.64ms",
+    "firstContentfulPaint": "1.81s",
+    "firstMeaningfulPaint": "1.89s",
+    "speedIndex": "4.22s",
+    "timeToInteractive": "8.37s",
+    "totalByteWeight": "784.18KB"
+  },
+  {
+    "timestamp": "2019-05-10T06:46:59.149Z",
+    "timeToFirstByte": "16.63ms",
+    "firstContentfulPaint": "1.89s",
+    "firstMeaningfulPaint": "1.95s",
+    "speedIndex": "4.29s",
+    "timeToInteractive": "8.47s",
+    "totalByteWeight": "784.20KB"
+  },
+  {
+    "timestamp": "2019-05-09T06:46:59.149Z",
+    "timeToFirstByte": "16.89ms",
+    "firstContentfulPaint": "1.99s",
+    "firstMeaningfulPaint": "1.99s",
+    "speedIndex": "5.29s",
+    "timeToInteractive": "8.57s",
+    "totalByteWeight": "794.20KB"
+  }
+]
