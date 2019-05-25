@@ -2,7 +2,7 @@
 
 Web performance dashboard
 
-![Screenshot](./docs/screenshot.jpg)
+![Screenshot](./docs/screenshot.png)
 
 ## Local development
 
